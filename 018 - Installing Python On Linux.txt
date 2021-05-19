@@ -1,0 +1,21 @@
+# Installing Python on Linux
+
+
+Step 1: Go to python.org
+
+Step 2:  Go to downloads
+
+Step 3: Download the latest Source Code file
+
+Step 4: Open terminal and type the following commands one by one
+cd Downloads
+tar -xf Python-... (filename)
+cd Pyhton-... (filename)
+.configure
+sudo make altinstall
+sudo make install
+
+Step 6: You are done!!!
+
+
+# Thank You !!!
